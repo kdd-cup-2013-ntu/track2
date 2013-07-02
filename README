@@ -1,10 +1,10 @@
 KDD CUP 2013 - Track 2
 ======================
-Copyright 2013 Cheng-Xia Chang, Wei-Cheng Chang, Wei-Sheng Chin, Kuan-Hao Huang, Yu-Chin Juan
-Tzu-Ming Kuo, Chun-Liang Li, Chih-Jen Lin, Hsuan-Tien Lin, Shan-Wei Lin
-Shou-De Lin, Ting-Wei Lin, Young-San Lin, Yu-Chen Lu, Yu-Chuan Su, Cheng-Hao Tsai
-Hsiao-Yu Tung, Jui-Pin Wang, Cheng-Kuang Wei, Felix Wu, Chun-Pai Yang, Tu-Chun Yin
-Tong Yu, Yong Zhuang
+Copyright 2013 Cheng-Xia Chang, Wei-Cheng Chang, Wei-Sheng Chin, Kuan-Hao Huang, Yu-Chin Juan,
+Tzu-Ming Kuo, Chun-Liang Li, Chih-Jen Lin, Hsuan-Tien Lin, Shan-Wei Lin,
+Shou-De Lin, Ting-Wei Lin, Young-San Lin, Yu-Chen Lu, Yu-Chuan Su, Cheng-Hao Tsai,
+Hsiao-Yu Tung, Jui-Pin Wang, Cheng-Kuang Wei, Felix Wu, Chun-Pai Yang, Tu-Chun Yin,
+Tong Yu, and Yong Zhuang
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -19,22 +19,21 @@ limitations under the License.
 
 
 
-This package is developed by many students in National Taiwan University, so it
-may contain multiple models and many scripts in this package.  Generally
-speaking, our approach includes two different author-matching algorithms,
-'main1' and 'main2', and the outputs of these two algorithms would be merged
-using post-processing scripts in 'merge'.  To simplify the usage, we integrate
-all necessary process into a Makefile in the top directory, so users could
+This package is developed at National Taiwan University
+Our approach includes two different author-matching algorithms,
+'main1' and 'main2', and the outputs of these two algorithms are merged
+using post-processing scripts in 'merge' and 'typo'.  To simplify the usage, we integrate
+all necessary processes into a Makefile in the top directory, so users could
 easily type 'make' to activate the whole process. Moreover, 'buff/main1.csv'
 and 'buff/main2.csv' are results of these two algorithms respectively.
-Besides, because our algorithm relies on some other open source libraries,
+Because our algorithm relies on some other open source libraries,
 please read the following statements before you get started. The detail of
 these methods will be introduced in the paper which will be published in mid July.
 
 A. Package organization
-    'main1' (One of our author matching algorithm)
-    'main2' (The other author matching algorithm)
-    'typo' (Scripts to detect and fix TYPO)
+    'main1' (One author matching algorithm)
+    'main2' (Another author matching algorithm)
+    'typo' (Scripts to detect and fix typos)
     'merge' (Scripts for merging the results of the above methods.)
 
 
@@ -51,37 +50,36 @@ C. Make a prediction step-by-step:
             1-2. Python3 (test with version 3.3.1)
             1-3. Perl5 (test with version 5.10)
             1-4. Perl module Text::CSV
-            1-5. Raw data (dataRev2.zip). The path of the zipped file should be 'track2'
+            1-5. Raw data (dataRev2.zip). The zipped file should be stored at the top directory of this package 
 
     2. Run:
         Type 'make'.
 
     3. Result:
-        The path of result file is 'final.csv'. Please notice that algorithm
+        The result file is 'final.csv'. Please notice that algorithm
         may take more than 1 hour to generate the output file.
 
-D. Public resources used in this package:
-    1. Chinese information for 'main1'. This information locate is used in Eastern and Western identification. 
+D. Public resources used. They are included in this package.
+    1. Chinese information for 'main1'. This information is used for Eastern and Western name identification. 
         1-1. Chinese family name
             We have two list of Chinese family names. The smaller one, TW.raw,
             is the official romanization of first 100 common Chinese name in
             Taiwan. The larger one, CN.raw, including 506 common Chinese names and
-            their romanization, is download from Wikipedia.
+            their romanization, is downloaded from Wikipedia.
             Links:
                 "http://tc.wangchao.net.cn/xinxi/detail_1855256.html" and romanization in "http://www.boca.gov.tw/mp?mp=1"
                 https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E5%A7%93%E6%B0%8F%E7%BE%85%E9%A6%AC%E5%AD%97%E6%A8%99%E6%B3%A8
                 http://www.greatchinese.com/surname/surname.htm
-        1-2. Korea family name
+        1-2. Korean family name
             KR.raw contains 20 common Korea first name and their romanization.
             Links:
                 http://mirror.enha.kr/wiki/%ED%95%9C%EA%B5%AD%EC%9D%B8%20%EC%9D%B4%EB%A6%84%EC%9D%98%20%EB%A1%9C%EB%A7%88%EC%9E%90%20%ED%91%9C%EA%B8%B0 
         1-3. Common romanization of Chinese tokens
-            The list is also available in Wikipedia.
             Links:
                 http://www.pinyin.info/romanization/compare/gwoyeu_romatzyh.html 
                 http://zh.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E%E6%8B%BC%E9%9F%B3%E5%B0%8D%E7%85%A7%E8%A1%A8
         1-4. Stop words
-            We manually select words frequently appearing in both English and Chinese.
+            We manually select around 45 words frequently appeared in both English and Chinese.
     2. Chinese information for 'main2'.
         2-1. Chinese family name
             Link:
@@ -89,11 +87,10 @@ D. Public resources used in this package:
         2-2. Common romanization of Chinese tokens
             Link:
                 http://irw.ncut.edu.tw/general/chen813/%E7%BE%85%E9%A6%AC%E6%8B%BC%E9%9F%B3/%E4%B8%AD%E6%96%87%E7%BE%85%E9%A6%AC%E6%8B%BC%E9%9F%B3%E5%B0%8D%E7%85%A7%E8%A1%A8.htm
-    3. Nick names. We substitute all nick name before we do any matching.
+    3. Nick names. We substitute all nick names before we do any matching.
         Link for 'main1': http://www.cc.kyoto-su.ac.jp/~trobb/nicklist.html
-                                          http://mentalfloss.com/article/24761/origins-10-nicknames
+                          http://mentalfloss.com/article/24761/origins-10-nicknames
         Link for 'main2': https://code.google.com/p/author-dedupe/
-    4. List of stop words
+    4. List of stop words used in the merge step
         Links:
-            http://mentalfloss.com/article/24761/origins-10-nicknames
             http://nlp.stanford.edu/software/tmt/tmt-0.4/
