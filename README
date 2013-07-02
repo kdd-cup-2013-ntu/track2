@@ -2,14 +2,13 @@ This package is developed by many students in National Taiwan University, so it
 may contain multiple models and many scripts in this package.  Generally
 speaking, our approach includes two different author-matching algorithms,
 'main1' and 'main2', and the outputs of these two algorithms would be merged
-using post-processing scripts in 'merge'. Please refer to our paper for
-detailed information.  To simplify the usage, we integrate all necessary
-process into a Makefile in the top directory, so users could easily type 'make'
-to activate the whole process. Moreover, 'buff/main1.csv' and 'buff/main2.csv'
-are results of these two algorithms respectively.  Besides, because our
-algorithm relies on some other open source libraries, please read the following
-statements before you get started.
-
+using post-processing scripts in 'merge'.  To simplify the usage, we integrate
+all necessary process into a Makefile in the top directory, so users could
+easily type 'make' to activate the whole process. Moreover, 'buff/main1.csv'
+and 'buff/main2.csv' are results of these two algorithms respectively.
+Besides, because our algorithm relies on some other open source libraries,
+please read the following statements before you get started. The detail of
+these methods will be introduced in the paper which will be published in mid July.
 
 A. Package organization
     'main1' (One of our author matching algorithm)
@@ -34,8 +33,7 @@ C. Make a prediction step-by-step:
             1-5. Raw data (dataRev2.zip). The path of the zipped file should be 'track2'
 
     2. Run:
-        1-1. Copy the original dataset (dataRev2.zip) to the top directory. 
-        1.2. Run 'make'.
+        Type 'make'.
 
     3. Result:
         The path of result file is 'final.csv'. Please notice that algorithm
