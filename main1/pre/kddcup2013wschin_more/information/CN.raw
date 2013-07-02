@@ -1,0 +1,631 @@
+1 	0x8D75 	Zhao 	Chao 	Chiu 	Chio 	Teo/Thio 	Teoh/Chew/Tiew 	Trieu 	Jo/Cho
+2 	0x94B1 	Qian 	Chien 	Chin 	Chin 	Zee/Chee 	Chien/Chen 	Tien 	Joen/Chun
+3 	0x5B59 	Sun 	Sun 	Suen 	Sun 	Soon/Sng 	Soon/Sun/Shun/Song/Tun 	Ton 	Son
+4 	0x674E 	Li 	Lee/Li 	Li/Lee 	Lei 	Lee 	Lee/Li 	Ly 	Lee/Rhee/Yi
+
+5 	0x5468 	Zhou 	Chou 	Chow/Chau 	Chao 	Chew 	Chew/Cheu/Chou/Chow/Chiew 	Chu/Chau 	Ju/Chu
+6 	0x5434 	Wu 	Wu 	Ng 	Ng 	Goh 	Goh/Ng/Ngo/Ngu 	Ngo 	Oh
+7 	0x90D1 	Zheng 	Cheng 	Cheng 	Cheang 	Tay 	Ching/Tang/Tey/Tay/Tee/Teh/Cheng/Chin/Chang/Chung/Chiang 	Trinh 	Jung/Jeong/Chung/Cheong
+8 	0x738B 	Wang 	Wang 	Wong 	Vong/Wong 	Ong/Heng/Wong/Wang 	Ong/Heng/Wong/Wang/Bong/Ng 	Vuong 	Wang
+
+9 	0x51AF 	Feng 	Feng 	Fung 	Fong 	Pang 	Pang/Foong/Fung/Fong 	Phung 	Pung
+10 	0x9648 	Chen 	Chen 	Chan 	Chan 	Tan/Chan/Ting 	Chan/Chin/Chen/Tan/Tang/Ting/Ding/Sin 	Tran 	Jin/Chin
+11 	0x891A 	Chu 	Chu 	Chu 	Chu 	Thi/Soo 	Too/Toh/Soo/Su 	Tru 	Cho/Jeo
+12 	0x536B 	Wei 	Wei 	Wai 	Wai 	Wee 	Wee/Wei 	Ve 	Ui/Oui
+
+13 	0x848B 	Jiang 	Chiang 	Cheung 	Cheong 	Chio 	Chio/Chiang/Cheong/Chiong 	Tuong 	Jang/Chang
+14 	0x6C88 	Shen 	Shen 	Shum/Sum 	Sam 	Sim 	Sim/Shim/Shun/Shum 	Tham 	Sim/Shim
+15 	0x97E9 	Han 	Han 	Hon 	Hon 	Hang 	Hang/Hon/Hong 	Han 	Han
+16 	0x6768 	Yang 	Yang 	Yeung 	Ieong 	Yeo/Yeoh/Yong 	Yong/Yeo/Yeoh/Eow/Yeong/Yew 	Duong 	Yang
+
+17 	0x6731 	Zhu 	Chu 	Chu 	Chu 	Choo 	Chu/Choo/Jee/Jeh 	Chau/Chu 	Chu/ Joo
+18 	0x79E6 	Qin 	Chin 	Chun 	Chon 	Chin/Ching 	Chin/Chng/Ching 	Tan 	Jin/Chin
+19 	0x5C24 	You 	Yu 	Yau 	Iao 	Yew 	Yew/You 	Vuu 	Woo/U
+20 	0x8BB8 	Xu 	Hsu 	Hui 	Hoi/Hui 	Hee/Koh/Khoh 	Koh/Khu/Khoo/Khor/Khow/Hoo/Hooi/Khaw/Hii 	Hua 	Heo/Huh/Hur
+
+21 	0x4F55 	He 	Ho 	Ho 	Ho 	Hor/Hoh 	Ho/Hoh/Hor 	Ha 	Ha
+22 	0x5415 	Lyu 	Lu 	Lui 	Loi 	Li 	Loh/Lei/Lui/Lee 	La/Lu 	Yeo/Ryeo
+23 	0x65BD 	Shi 	Shih 	Sze 	Si 	Si/See 	Si/See/Sii/Sih 	Thi 	Shi
+24 	0x5F20 	Zhang 	Chang 	Cheung 	Cheong 	Teo/Teoh/Cheong 	Cheong/Chong/Teo/Teoh/Chang/Tiong 	Truong 	Jang/Chang
+
+25 	0x5B54 	Kong 	Kung 	Hung 	Hong 	Khong 	Kong/Khong/Kung 	Khong 	Gong/Kong
+26 	0x66F9 	Cao 	Tsao 	Cho/Tso 	Chou 	Chow/Chau 	Cheng/Choo/Cho/Chu/Chau/Chow 	Tao 	Cho/Jo
+27 	0x4E25 	Yan 	Yen 	Yim 	Im 	Giam/Ngiam 	Yam/Ngim/Giam/Ngiam 	Nghiem 	Im
+28 	0x534E 	Hua 	Hua 	Wa/Wah 	Wa/Wah 	Hoa/Hua 	Wha/Wah/Wa/Hoa/Hua 	Hoa 	Hwa
+
+29 	0x91D1 	Jin 	Chin 	Kam 	Kam 	Kim 	Kim/King 	Kim 	Kim
+30 	0x9B4F 	Wei 	Wei 	Ngai 	Ngai 	Gui/Ngui 	Ngui/Gui/Woi 	Nguy 	Ui/Oui/Wi/Wie/Wee
+31 	0x9676 	Tao 	Tao 	To 	Tou 	Tau/Tow 	Tau/Tow/Tho/To/Too/Toh 	Dao 	Do/To
+32 	0x59DC 	Jiang 	Chiang 	Keung 	Keong 	Kiang 	Kiang 	Khuong 	Kang/Gang
+
+33 	0x621A 	Qi 	Chi 	Chik 	Chek 	Chek 	Chek 	Thich 	Cheok
+34 	0x8C22 	Xie 	Hsieh 	Tse 	Che 	Cheah/Tay/Chia 	Cheah/Chiah/Chia/Seah/Sia/See 	Ta 	Sa
+35 	0x90B9 	Zou 	Tsou 	Chau/Chow 	Chao/Chau 	Chew/Chou/Chu 	Chow/Chou 	Trau 	Chu
+36 	0x55BB 	Yu 	Yu 	Yu 	U 	Zu/Joo/Ju 	Yu/Yho/Yuh/Joo/Ju 	Du 	You/Yu
+
+37 	0x67CF 	Bai 	Po 	Pak 	Pak 	Pek/Peh 	Pek/Peh 	Ba 	Paek/Baek
+38 	0x6C34 	Shui 	Shui 	Sui 	Soi 	Chwee/Chui 	Shu/Tshui/Chwee/Chui 	Thuy 	Soo/Su
+39 	0x7AA6 	Dou 	Tou 	Tau 	Tao 	Tou/Toh 	Tou/Toh 	D0x1EADu 	Tu/Du
+40 	0x7AE0 	Zhang 	Chang 	Cheung 	Cheong 	Chio/Chioh/Cheoh 	Cheong/Chong/Chioh/Tiong/Tong 	Chuong 	Chang/Jang
+
+41 	0x4E91 	Yun 	Yun 	Wan 	Wan 	Hoon/Hung 	Hoon/Hung/Woon/Yung 	Van 	
+42 	0x82CF 	Su 	Su 	So 	Sou 	Soh 	Soh/Saw/Soo 	To 	
+43 	0x6F58 	Pan 	Pan 	Poon/Pun 	Pun 	Phua 	Phua/Pan/Pang/Phang 	Phan 	Ban
+44 	0x845B 	Ge 	Ko 	Kot 	Got/Kot 	Kat/Kuah 		Cat 	Gal
+
+45 	0x595A 	Xi 	Hsi 	Hai 	Kai 	Hee 	Hee 	He 	Hae
+46 	0x8303 	Fan 	Fan 	Fan 	Fan 	Huang 	Huang/Fung/Fam/Fang 	Pham 	Bum
+47 	0x5F6D 	Peng 	Peng 	Pang 	Pang 	Peh 	Peh/Peng/Pang/Phang 	Banh 	Paeng
+48 	0x90CE 	Lang 	Lang 	Long 	Long 	Long/Lang 	Long/Lang 	Lang 	
+
+49 	0x9C81 	Lu 	Lu 	Lo 	Lou 	Loo 	Loo/Loh/Lu 	Lo 	Noh
+50 	0x97E6 	Wei 	Wei 	Wai 	Wai 	Wee 	Wee/Wai/Wei/Vei 	Vi 	
+51 	0x660C 	Chang 	Chang 	Cheung 	Cheong 	Chiang 	Cheong/Chiang/Cang 	Xuong 	
+52 	0x9A6C 	Ma 	Ma 	Ma 	Ma 	Beh 	Beh/Mah/Mha/Ma 	Ma 	Ma
+
+53 	0x82D7 	Miao 	Miao 	Miu 	Mio 	Miau 	Miau 	Mieu 	
+54 	0x51E4 	Feng 	Feng 	Fung 	Fong 	Hong 	Hong/Fong 	Phung/Phuong 	
+55 	0x82B1 	Hua 	Hua 	Fa 	Fa 	Huay 	Huay/Faa/Fah/Fha 	Hoa 	
+56 	0x65B9 	Fang 	Fang 	Fong 	Fong 	Png/Pung 	Pung/Fan/Fong/Phun/Huong 	Phuong 	Bang
+
+57 	0x4FDE 	Yu 	Yu 	Yu 	U 	Joo/Ju 	Joo/Ju/Je/Yii 	Du/Du 	You/Yu
+58 	0x4EFB 	Ren 	Jen 	Yam 	Iam 	Zim/Jim 	Yam/Ngam/Yim/Ngieng/Ngiam 	Nh0x1EADm/Nhiem 	Rim/Yim
+59 	0x8881 	Yuan 	Yuan 	Yuen 	Un/Iun 	Wang 	Yuan/Yuen/Wang/Ngen 	Vien 	Won
+60 	0x67F3 	Liu 	Liu 	Lau 	Lao 	Lew 	Liew/Liu/Lew 	Lieu 	You/Yu/Ryu
+
+61 	0x9146 	Feng 	Feng 	Fung 	Fong 	Hong 	Hong 	Phong 	
+62 	0x9B91 	Bao 	Pao 	Pau 	Bao 	Pow/Pau 	Pow/Pau 	Bao 	
+63 	0x53F2 	Shi 	Shih 	Sze 	Si 	Sze/Su/Ser 	Sze/Su/Ser 	Su 	Sa
+64 	0x5510 	Tang 	Tang 	Tong 	Tong 	Tng/Tang 	Tng/Tang/Thang/Tong/Thong 	Duong 	
+
+65 	0x8CBB 	Fei 	Fei 	Pei 	Pei/Bei 	Hwee/Hui 	Hwee/Hui 	Phi 	
+66 	0x5EC9 	Lian 	Lien 	Lim 	Lim 	Liam 	Liam 	Liem 	
+67 	0x5C91 	Cen 	Tsen 	Sum/Shum 	Sam 	Ngim 	Ngim 	Sam 	
+68 	0x859B 	Xue 	Hsueh 	Sit 	Sit 	Sih 	Sih/Sik/Sit/Silk 	Tiet 	Seol/Sul
+
+69 	0x96F7 	Lei 	Lei 	Lui 	Loi 	Lui 	Loi/Lui/Looi/Lewe/Lei 	Loi 	
+70 	0x8CC0 	He 	Ho 	Ho 	Ho 	Hor 	Hor/Hoo 	Ha 	
+71 	0x502A 	Ni 	Ni 	Ngai 	Ngai 	Geh/Goi 	Geh/Goi/Nga/Ngam 	Nghe 	
+72 	0x6E6F 	Tang 	Tang 	Tong 	Tong 	Tng 	Thong/Tang/Thang 	Thang 	
+
+73 	0x6ED5 	Teng 	Teng 	Tang 	Tang 	Teng/Theng 	Teng/Theng 	Dang 	
+74 	0x6BB7 	Yin 	Yin 	Yan 	Ian 	Yam/Hng/Heung 	Yam/Hng/Heung 	An 	
+75 	0x7F57 	Luo 	Lo 	Law/Lo 	Lo 	Lo/Lor/Law 	Lo/Lor/Law/Loh 	La 	Rah/Na
+76 	0x6BD5 	Bi 	Pi 	But 	Bat 	Bik 	Bik 	Tat 	
+
+77 	0x90DD 	Hao 	Hao 	Kok 	Kok 	How/Hak 	How/Hak 	Hac 	
+78 	0x90AC 	Wu 	Wu 	Wu 	Vu / Wu 	Woo 	Woo/Voo/Woh/Wu/Vu 	O 	
+79 	0x5B89 	An 	An 	On 	On 	Ann/Ang 	Ann/Ang 	An 	An/Ahn
+80 	0x5E38 	Chang 	Chang 	Sheung 	Sheong 	Seong/Siong/Sioh 	Seong/Siong/Sioh 	Thuong 
+
+81 	0x4E50  	Yue 	Yueh 	Lok/Ok 	Lok/Ok 	Lak 	Lak 	Lac/Nhac 	
+82 	0x4E8E 	Yu 	Yu 	Yu 	U 	Yee 	Yee 	Vu 	
+83 	0x65F6 	Shi 	Shih 	See/Sze 	Si 	See/Si 	See/Si 	Thoi 	
+84 	0x5085 	Fu 	Fu 	Foo 	Fu 	Poo/Poh 	Poo/Poh/Fu/Foo/Foh 	Pho 	
+
+85 	0x76AE 	Pi 	Pi 	Pei 	Pei 	Puay 	Puay 	Bi 	
+86 	0x535E 	Bian 	Pien 	Pin 	Pin 	Piang 	Piang 	Bien 	Byun
+87 	0x9F50 	Qi 	Chi 	Chai 	Chai 	Chee 	Chee 	Te 	
+88 	0x5EB7 	Kang 	Kang 	Hong 	Hong 	Kang/Khang 	Kang/Khang 	Khang 	Gang/Kang
+
+89 	0x4F0D 	Wu 	Wu 	Ng 	Ng 	Ng/Ngoh 	Ng/Ngo/Ngoh/Wu/Wuh/Woo 	Ngu 	
+90 	0x4F59 	Yu 	Yu 	Yu 	U 	Eu/Yee/I 	Eu/Yee 	Du 	
+91 	0x5143 	Yuan 	Yuan 	Yuen 	Un / Iun 	Nguang 	Nguang 	Nguyen 	
+92 	0x535C 	Bu 	Pu 	Puk 		Pok 	Pok/Puu 	Boc 	
+
+93 	0x987E 	Gu 	Ku 	Koo 	Ku 	Koh 	Koe/Koh 	Co 	
+94 	0x5B5F 	Meng 	Meng 	Mang 	Mang 	Meng 	Meng/Mang 	Manh 	Maeng
+95 	0x5E73 	Ping 	Ping 	Ping 	Peng 	Peng/Pheng 	Peng/Pheng 	Binh 	
+96 	0x9EC4 	Huang 	Huang 	Wong 	Vong/Wong 	Ng 	Bong/Boong/Ng/Eng/Ong/Ooi/Wong/Wee 	Hoang/Huynh 	Hwang
+
+97 	0x548C 	He 	Ho 	Wo 	Vo 	Hua/Hoa 	Hoo/Woh/Woo/Hua/Hoa 	Hoa 	Hwa
+98 	0x7A46 	Mu 	Mu 	Muk 		Mok 	Mok 	Moc 	
+99 	0x8427 	Xiao 	Hsiao 	Shiu/Siu 	Sio 	Seow/Siao 	Seow/Siew/Siau/Siaw/Sew/Siu/Seu 	Tieu 	
+100 	0x5C39 	Yin 	Yin 	Wan 	Wan 	Un/Eung 	Un/Eung 	Doan 	Yoon
+
+101 	0x59DA 	Yao 	Yao 	Yiu 	Io 	Yeo 	Yeo/Yew/Yow 	Dieu 	
+102 	0x90B5 	Shao 	Shao 	Siu/Shiu 	Sio 	Shaw/Seow/Sioh 	Shao/Shaw/Sao/Shau/Seow/Sioh 	Thieu 	
+103 	0x6E5B 	Zhan 	Chan 	Cham 		Kam/Kham 	Kam/Kham 	Tram 	
+104 	0x6C6A 	Wang 	Wang 	Wong 	Vong/Wong 	Wang 	Wang/Wong/Vang 	Uong 	
+
+105 	0x7941 	Qi 	Chi 	Kei 		Kee 	Kee 	Ky 	
+106 	0x6BDB 	Mao 	Mao 	Mo 	Mou 	Moh/Mor 	Bo/Boo/Moh/Moo/Mor 	Mao 	Mo
+107 	0x79B9 	Yu 	Yu 	Yu 	U 	Woo 	Woo 	Vu 	
+108 	0x72C4 	Di 	Ti 	Tik/Dick 	Tek 	Tek 	Tek 	Dich 	
+
+109 	0x7C73 	Mi 	Mi 	Mai 	Mai 	Bee 	Bee 	Me 	
+110 	0x8D1D 	Bei 	Pei 	Pui 	Pui 	Puay 	Puay 	Boi 	
+111 	0x660E 	Ming 	Ming 	Ming 	Meng 	Meng 	Meng 	Minh 	Myeong/Myung
+112 	0x81E7 	Zang 	Tsang 	Chong 	Tsang/Chang/Chan 	Tsang/Chang/Chan 		Tang 	
+
+113 	0x8BA1 	Ji 	Chi 	Kai 	Kai 	Koi 	Koi 	Ke 	
+114 	0x4F0F 	Fu 	Fu 	Fuk 	Fok 	Hok 	Hok 	Phuc 	
+115 	0x6210 	Cheng 	Cheng 	Shing/Sing 	Seng 	Seng 	Seng/Sang/Shang/Tshan/Tshang 	Thanh 	Sung/ Seong
+116 	0x6234 	Dai 	Tai 	Tai 	Tai 	Te/To/Tor 	Tai/Thai/Dai/Dhai/To/Tor 	Dai 	
+
+117 	0x8C08 	Tan 	Tan 	Tam 	Tam 	Tam 	Tam 	Dam 	
+118 	0x5B8B 	Song 	Sung / Soong 	Sung 	Song 	Song 	Shong/Song/Sung 	Tong 	Song
+119 	0x8305 	Mao 	Mao 	Mau 	Mao 	Mau/Mow 	Mau/Mow 	Mao 	
+120 	0x5E9E 	Pang 	Pang 	Pong 	Pong 	Pang 	Phong/Pong/Pang 	Bang 	
+
+121 	0x718A 	Xiong 	Hsiung 	Hung 	Hong 	Him 	Yoong/Hiung/Hung/Him 	Hung 	
+122 	0x7EAA 	Ji 	Chi 	Kei 	Kei 	Kee 	Kee/Ki 	Ky 	
+123 	0x8212 	Shu 	Shu 	Shu 		Soo/Su 	Soo/Su 	Thu 	
+124 	0x5C48 	Qu 	Chu 	Wat 	Vat / Wat 	Kut/Kuk 	Kut/Kuk 	Khuat 	
+
+125 	0x9879 	Xiang 	Hsiang 	Hong 	Hong 	Hang 	Hang 	Hang 	
+126 	0x795D 	Zhu 	Chu 	Chuk 	Chok 	Chok 	Chok/Choke/Chuk 	Chuc 	
+127 	0x8463 	Dong 	Tung 	Tung 	Tong 	Tang/Tong 	Thung/Tong/Tung/Dung/Thong 	Dong 	Dong
+128 	0x6881 	Liang 	Liang 	Leung 	Leong 	Neo/Nio/Niu 	Liang/Liong/Leong/Neo/Neoh/Leo 	Luong 	Ryeong
+
+129 	0x675C 	Du 	Tu 	To/Tao/Toe 	Tou 	Toh/Too 	Toh/Tu/Too 	Do 	
+130 	0x962E 	Ruan 	Juan 	Yuen 	Un 	Ngwan/Nguang 	Ngwan/Goon/Woon/Won/Nguang 	Nguyen 	
+131 	0x84DD 	Lan 	Lan 	Lam/Nam 	Lam 	Nah 	Nah/Lam/Ngam/Lan 	Lam 	
+132 	0x95F5 	Min 	Min 	Man 	Man 	Miang 	Miang 	M0x1EABn 	Min/Mun
+
+133 	0x5E2D 	Xi 	Hsi 	Tsik 	Chek 	Cheoh/Chioh 	Cheoh/Chioh 	Tich 	
+134 	0x5B63 	Ji 	Chi 	Kwai 	Kuai 	Kwee/Kui 	Kwee/Kui 	Quy 	
+135 	0x9EBB 	Ma 	Ma 	Ma 	Ma 	Mua 	Mua 	Ma 	
+136 	0x5F3A 	Qiang 	Chiang 	Keung 	Keong 	Kiang/Khiang 	Kiang/Khiang 	Cuong 	
+
+137 	0x8D3E 	Jia 	Chia 	Ka 	Ka 	Ka/Kia 	Ka/Kia 	Gia 	
+138 	0x8DEF 	Lu 	Lu 	Lo 	Lou 	Loh 	Loh 	Lo 	
+139 	0x5A04 	Lou 	Lou 	Lau 	Lao 	Loo 	Loo 	Lau 	
+140 	0x5371 	Wei 	Wei 	Ngai 	Ngai 	Ngui/Ngwee 	Ngui/Ngwee 	Nguy 	
+
+141 	0x6C5F 	Jiang 	Chiang 	Kong 	Kong 	Kang 	Kang/Kong/Khong/Khang 	Giang 	Kang
+142 	0x7AE5 	Tong 	Tung 	Tung 	Tong 	Tong/Thong 	Tong/Thong/Tang 	Dong 	
+143 	0x989C 	Yan 	Yen 	Ngan 	Ngan 	Gan/Ngan/Ngang 	Gan/Ngan/Ngam 	Nhan 	
+144 	0x90ED 	Guo 	Kuo 	Kwok 	Kuok/Kuoc 	Kueh/Kuek/Koay/Quek 	Kuek/Kho/Kwoh/Kwok/Koay/Quek/Kok/Keoh 	Quach 	Kwak
+
+145 	0x6885 	Mei 	Mei 	Mui 	Mui 	Boey/Buay 	Boey/Buay/Moi/Mei/May 	Mai 	
+146 	0x76DB 	Sheng 	Sheng 	Shing 	Seng 	Seng 	Seng/Cheng/Shang 	Thinh 	
+147 	0x6797 	Lin 	Lin 	Lam 	Lam 	Lim/Lam 	Lim/Lin/Lam/Lum/Ling 	Lam 	Lim / Im
+148 	0x5201 	Diao 	Tiao 	Tiu 	Tio 	Teow/Tiau/Tiao 	Teow/Tiau/Tiao 	Dieu 	
+
+149 	0x937E 	Zhong 	Chung 	Chung 	Chong 	Cheng 	Ch'ng/Chong/Cheng/Chung 	Chung 	
+150 	0x5F90 	Xu 	Hsu 	Chui/Tsui 	Choi 	Su/Chee/Cher/Cheu 	See/Seh/See/Cher/Cheu 	Tu 	Seo
+151 	0x90B1 	Qiu 	Chiu 	Yau 	Iao/Iau 	Khoo 	Khoo/Khu/Kue/Khor/Kiew/Kiu/Kew 	Khuu 	
+152 	0x9A86 	Luo 	Lo 	Lok 	Lok 	Lok 	Loke/Lok/Loh 	Lac 	
+
+153 	0x9AD8 	Gao 	Kao 	Ko 	Kou 	Koh/Kor 	Kow/Ko/Ku/Koh 	Cao 	Ko
+154 	0x590F 	Xia 	Hsia 	Ha 	Ha 	Hay 	Hsia/Ha/Har/Hay 	Ha 	
+155 	0x8521 	Cai 	Tsai 	Choi/Tsoi 	Choi 	Chua 	Chai/Chuah/Chua 	Thai 	
+156 	0x7530 	Tian 	Tien 	Tin 	Tin 	Chan 	Tim/Tien/Ten/Then/Chan 	Dien 	
+
+157 	0x6A0A 	Fan 	Fan 	Fan 	Fan 	Han/Huang 	Han/Huang/Fan/Phan 	Phan 	
+158 	0x80E1 	Hu 	Hu 	Woo/Wu 	Vu/Wu 	Oh 	Foo/Fu/Oh/Foh/Hoo/Hu 	Ho 	Ho
+159 	0x51CC 	Ling 	Ling 	Ling 	Leng 	Leng 	Leng/Lin/Ling 	Lang 	
+160 	0x970D 	Huo 	Huo 	Fok 	Fok 	Kak/Khak 	Kak/Khak 	Ho0x1EAFc 
+
+161 	0x865E 	Yu 	Yu 	Yu 	U 	Ngoh/Ngor 	Ngoh/Ngor 	Ngu 	Oo
+162 	0x4E07 	Wan 	Wan 	Man 	Man 	Man/Buang 	Ban/Man/Buang 	Van 	
+163 	0x652F 	Zhi 	Chih 	Chi/Tze 		Chee 	Chee 	Chi 	
+164 	0x67EF 	Ke 	Ko 	Or 	O 	Koa/Kwa/Kua 	Quah/Koa/Kua 	Kha 	
+
+165 	0x661D 	Zan 	Tsan 						
+166 	0x7BA1 	Guan 	Kuan 	Kwun 	Kun 	Kuang/Kwan 	Kuang/Kwan 	Quan 	
+167 	0x5362 	Lu 	Lu 	Lo/Lu/Loo 	Lou 	Loh 	Low/Lu/Loo/Loh 	Lu/Lo 	
+168 	0x83AB 	Mo 	Mo 	Mok 	Mok 	Mok 	Mok/Bok 	Mac 	
+
+169 	0x7ECF 	Jing 	Ching 	King 	Keng 	Keng 	Gin/Keng 	Kinh 	
+170 	0x623F 	Fang 	Fang 	Fong 	Fong 	Pang 	Piong/Fong/Fang/Pang 	Phong 	
+171 	0x88D8 	Qiu 	Chiu 	Kau 	Kao 	Kew 	Kew 	Cuu 	
+172 	0x7F2A 	Miao 	Miao 	Miu/ Mau 	Mio 	Mok 	Mok 	Mau 	
+
+173 	0x5E72 	Gan 	Kan 	Kon 			Can 	
+174 	0x89E3 	Xie 	Hsieh 	Kai 	Kai 	Hai/Hye 	Hai/Hye 	Giai 	
+175 	0x5E94 	Ying 	Ying 	Ying 	Ieng 	Eng 	Eng 	Ung 	
+176 	0x5B97 	Zong 	Tsung 	Chung 	Chong 	Chong 	Chong 	Tong 	
+
+177 	0x4E01 	Ding 	Ting 	Ting 	Teng 	Teng 	Teng 	Dinh 	
+178 	0x5BA3 	Xuan 	Hsuan 	Suen 	Sun 	Suang 	Suang 	Tuyen 	
+179 	0x8D32 	Ben 	Pen 						
+180 	0x9093 	Deng 	Teng 	Tang 	Tang 	Teng 	Tang/Thien/Ten/Teng/Tan 	Dang 	
+
+181 	0x90C1 	Yu 	Yu 	Yuk 		Hiok 	Hiok 	Uc 	
+182 	0x5355 	Shan 	Shan 	Sin 	Sin 	Siang 	Siang 	Thien 	
+183 	0x676D 	Hang 	Hang 	Hong 	Hong 	Hang 	Hang 	Hang 	
+184 	0x6D2A 	Hong 	Hung 	Hung 	Hong 	Ang 	Ang/Ong/Hong/Hung 	Hong 	Ho
+
+185 	0x5305 	Bao 	Pao 	Pau 	Pao/Bao 	Pow/Pao 	Pow/Pao/Bao 	Bao 	
+186 	0x8BF8 	Zhu 	Chu 	Chu 	Chu 	Choo 	Choo 	Chu 	
+187 	0x5DE6 	Zuo 	Tso 	Chor/Jor 		Cho/Chor 	Cho/Chor 	Ta 	
+188 	0x77F3 	Shi 	Shih 	Shek 	Sek 	Cheoh/Chioh 	Cheoh/Chioh 	Thach 	
+
+189 	0x5D14 	Cui 	Tsui 	Chui/Tsui 	Choi 	Chwee/Chui 	Chwee/Chui 	Thoi 	Choi
+190 	0x5409 	Ji 	Chi 	Kut 	Kat/Kit 	Kik 	Kik 	Cat 	
+191 	0x94AE 	Niu 	Niu 	Nau 	Nao 	New/Niu 	New/Niu 	Nuu 	
+192 	0x9F9A 	Gong 	Kung 	Kung 	Kong 	Kiong/Kong 	Kiong/Kong 	Cung 	
+
+193 	0x7A0B 	Cheng 	Cheng 	Ching 	Cheng 	Thia 	Thia/Tiah/Tiang 	Trinh 	
+194 	0x5D47 	Ji 	Chi 			Kee 	Kee 		
+195 	0x90A2 	Xing 	Hsing 	Ying 	Ieng 	Hiah/Hia 	Hiah/Hia 	Hinh 	
+196 	0x6ED1 	Hua 	Hua 					Hoat 	
+
+197 	0x88F4 	Pei 	Pei 	Pui 	Pui 	Puay 	Per/Puay 	Bui 	Bae
+198 	0x9646 	Lu 	Lu 	Luk 	Lok 	Lok/Lek 	Lek/Luk/Lok 	Luc 	
+199 	0x8363 	Rong 	Jung 	Wing 	Veng/Ving 	Yong 	Yong 	Vinh 	
+200 	0x7FC1 	Weng 	Weng 	Yung 	Iong 	Ang/Eng 	Wong/Yeong/Vung/Eng 	Ong 
+
+201 	0x8340 	Xun 	Hsun 			Soon/Sung 	Soon/Sung 	Tuan 	
+202 	0x7F8A 	Yang 	Yang 	Yeung 	Ieong 	Yeoh 	Yeoh 	Duong 	Young
+203 	0x65BC 	Yu 	Yu 	Yu 	U 	Yee 	Yee 	U 	
+204 	0x60E0 	Hui 	Hui 	Wai 	Vai 	Hwee 	Hwee/Hui 	Hue 	
+
+205 	0x7504 	Zhen 	Chen 	Yan 	Ian 	Ying 	Ying 	Chan 	
+206 	0x9EB4 	Qu 	Chu 	Kuk 		Khek/Kek 	Khek/Kek 	Cuc 	
+207 	0x5BB6 	Jia 	Chia 	Ka/Kah 	Ka 			Gia 	
+208 	0x5C01 	Feng 	Feng 	Fung 	Fong 	Hong 	Hong 	Phong 	
+
+209 	0x82AE 	Rui 	Jui 			Juay 	Juay 	Nhue 	
+210 	0x7FBF 	Yi 	I/Yi 	Yik 	Iek 	Ngee 	Ngee 	Nghe 	
+211 	0x50A8 	Chu 	Chu 	Chu 	Chu 			Tru 	
+212 	0x9773 	Jin 	Chin 			King/Keung 	King/Keung 	C0x1EADn 	
+
+213 	0x6C72 	Ji 	Chi 					Cap 	
+214 	0x90B4 	Bing 	Ping 			Peng 	Peng 		
+215 	0x7CDC 	Mi 	Mi 	Mei 	Mei 			Mi 	
+216 	0x677E 	Song 	Sung 	Chung 	Chong 	Song 	Song 	Tung 	
+
+217 	0x4E95 	Jing 	Ching 						
+218 	0x6BB5 	Duan 	Tuan 	Tuen 	Tun 	Teung 	Teung 	Doan 	
+219 	0x5BCC 	Fu 	Fu 	Foo 	Fu 	Poo 	Poo 	Phu 	
+220 	0x5DEB 	Wu 	Wu 	Mo 	Mou 	Boo 	Wu/Boo/Woo 	Vu 	
+
+221 	0x4E4C 	Wu 	Wu 	Woo 	Wu 	Woo/Oh 	Woo/Voo/Oh 	O 	
+222 	0x7126 	Jiao 	Chiao 	Chiu 	Chio 	Cheow/Chiau 	Cheow/Chiau/Chiao 	Tieu 	
+223 	0x5DF4 	Ba 	Pa 	Pa 	Pa 	Pa 	Pa 		
+224 	0x5F13 	Gong 	Kung 	Kung 	Kong 	Keng 	Keng 	Cung 	
+
+225 	0x7267 	Mu 	Mu 	Muk 	Mok 	Mok 	Mok 	Muc 	
+226 	0x9697 	Kui 	Kui 			Ngwee/Ngui 	Ngwee/Ngui 		
+227 	0x5C71 	Shan 	Shan 	San 	San 			Son 	
+228 	0x8C37 	Gu 	Ku 	Kuk 	Kok 	Kok 	Kok 	Coc 	
+
+229 	0x8F66 	Che 	Che 			Chia 	Chia/Cheh/Che 	Xa 	Cha
+230 	0x4FAF 	Hou 	Hou 	Hau 	Hao 	Hoh/Hou 	Hoh/Hou 	Hau 	
+231 	0x5B93 	Mi 	Mi 			Mik 	Mik 		
+232 	0x84EC 	Peng 	Peng 	Pang 	Pang 	Pong/Phong 	Pong/Phong 	Bong 	
+
+233 	0x5168 	Quan 	Chuan 	Chuen 	Chun 	Chuang 	Chuang 	Toan 	
+234 	0x90D7 	Xi 	Hsi 			Hee 	Hee 	Hy 	
+235 	0x73ED 	Ban 	Pan 	Pan 	Pan 	Pang 	Pang 	Ban 	
+236 	0x4EF0 	Yang 	Yang 	Yeung 	Ieong 	Ngiang 	Ngiang 	Nguong 	Young
+
+237 	0x79CB 	Qiu 	Chiu 	Chau 	Chao 	Chew 	Chew/Chiu 	Thu 	
+238 	0x4EF2 	Zhong 	Chung 	Chung 	Chong 	Tong 	Tong 	Trung 	
+239 	0x4F0A 	Yi 	I/Yi 	Yee 	I 	Yee 	Yee 	Y 	
+240 	0x5BAB 	Gong 	Kung 	Kung 	Kong 	Keng 	Keng 	Cung 	
+
+241 	0x752F 	Ning 	Ning 	Ning 	Neng 	Leng 	Leng 	Ninh 	
+242 	0x4EC7 	Qiu 	Chiu 	Sau 	Sao 	Chew 	Chew/Chiu 	Thu 	
+243 	0x683E 	Luan 	Luan 	Luen 		Luang 	Luang 		
+244 	0x66B4 	Bao 	Pao 	Po 	Pou 	Pow/Pau 	Pow/Pau/Pao 	Bao 	
+
+245 	0x7518 	Gan 	Kan 	Kam 	Kam 	Kam 	Kam 	Cam 	
+246 	0x94AD 	Dou 	Tou 			Toh/Tou 	Toh/Tou 		
+247 	0x5389 	Li 	Li 	Lai 	Lai 	Lee 	Lee 	Le 	
+248 	0x620E 	Rong 	Jung 	Yung 	Iong 	Jong 	Jong 	Nhung 	
+
+249 	0x7956 	Zu 	Tsu 	Cho 	Chou 	Choh/Chou 	Choh/Chou 	To 	
+250 	0x6B66 	Wu 	Wu 	Mo 	Mou 	Boo 	Boo 	Vu/Vo 	
+251 	0x7B26 	Fu 	Fu 	Foo 	Fu 	Hoo 	Foo/Hoo/Hu 	Phu 	
+252 	0x5218 	Liu 	Liu 	Lau 	Lao 	/Low/Lau 	Liew/Lau/Law/Liao/Lieu/Liu/Low 	Luu 	Yu/Ryu
+
+253 	0x666F 	Jing 	Ching 	King 	Keng 	Keng 	Keng 	Canh 	
+254 	0x8A79 	Zhan 	Chan 	Jim/Tsim 	Chim 	Chiam 	Chiam 	Chiem 	
+255 	0x675F 	Shu 	Shu 		Cou 	Sok 	Sok 	Thuc 	
+256 	0x9F99 	Long 	Lung 	Lung 	Long 	Leng 	Leong/Lon/King/Leng 	Long 	
+
+257 	0x53F6 	Ye 	Yeh 	Ip/Yip 	Ip 	Yap 	Yap/Yip 	Diep 	
+258 	0x5E78 	Xing 	Hsing 	Hang 	Hang 	Heng 	Heng 	Hanh 	
+259 	0x53F8 	Si 	Ssu 	Sze 	Si 	See 	See/Si 	Tu 	
+260 	0x97F6 	Shao 	Shao 	Siu 	Sio 	Seow 	Seow/Siau/Siao 	Thieu 	
+
+261 	0x90DC 	Gao 	Kao 			Kow/Kau 	Kow/Kau 		
+262 	0x9ECE 	Li 	Li 	Lai 	Lai 	Loi/Lee/Li 	Loy/Loi/Lee/Li 	Le 	
+263 	0x84DF 	Ji 	Chi 		Kai 	Kee 	Kee 	Ke 	
+264 	0x8584 	Bo 	Po 			Poh 	Poh 	Bac 	
+
+265 	0x5370 	Yin 	Yin 		Ian 	Ying 	Ying 	An 	
+266 	0x5BBF 	Su 	Su 					Tuc 	
+267 	0x767D 	Bai 	Pai 	Pak 	Pak 	Peh 	Peh 	Bach/Bac 	
+268 	0x6000 	Huai 	Huai 	Wai 	Wai 	Huai 	Huai 	Hoai 	
+
+269 	0x84B2 	Pu 	Pu 	Po 	Pou 	Phoo 	Phoo 	Bo 	
+270 	0x90B0 	Tai 	Tai 	Tai 		Thai/Tai 	Thai/Tai 	Thai 	
+271 	0x4ECE 	Cong 	Tsung 	Chung 	Chong 	Chong 	Chong 	Tong 	
+272 	0x9102 	E 	O 			Ngak 	Ngak 	Ngac 	
+
+273 	0x7D22 	Suo 	So 			Sok/Soh 	Sok/Soh 	Tac 	
+274 	0x54B8 	Xian 	Hsien 	Ham 	Ham 	Ham 	Ham 	Ham 	
+275 	0x7C4D 	Ji 	Chi 					Tich 	
+276 	0x8D56 	Lai 	Lai 	Lai 	Lai 	Lai/Nai 	Lay/Lye/Lai/Nai 	Lai 	
+
+277 	0x5353 	Zhuo 	Cho 	Cheuk 	Cheok 	Toh 	Chok/Chock/Chuk/Toh 	Trac 	
+278 	0x853A 	Lin 	Lin 	Lun 	Lon 	Liang 	Liang 	L0x1EADn 	
+279 	0x5C60 	Tu 	Tu 	To 	Tou 	Too/Tu 	Too/Tu 	Do 	
+280 	0x8499 	Meng 	Meng 	Mung 	Mong 	Mong 	Bang/Mang/Mung/Mong 	Mong
+
+281 	0x6C60 	Chi 	Chih 	Chi 		Tee 	See/Tee/Tie 	Tri 	
+282 	0x4E54 	Qiao 	Chiao 	Kiu 	Kio 	Keow 	Keow/Kiau/Kiao 	Kieu 	
+283 	0x9634 	Yin 	Yin 	Yam 	Iam 	Yim 	Yim 	Am 	
+284 	0x9B31 	Yu 	Yu 			Hiok 	Hiok 	Uat 	
+
+285 	0x80E5 	Xu 	Hsu 	Sui 	Soi 	Soo 	Soo/Su 	Tu 	
+286 	0x80FD 	Nai 	Nai 	Nang 	Nang 	Leng 	Leng 	Nang 	
+287 	0x82CD 	Cang 	Tsang 	Chong 	Chong 	Chang 	Chang/Chan 	Thuong 	
+288 	0x53CC 	Shuang 	Shuang 	Sheung 	Seong 	Sang 	Sang 	Song 	
+
+289 	0x95FB 	Wen 	Wen 	Man 	Man 	Boon 	Boon 	Van 	
+290 	0x8398 	Shen 	Shen 			Sing 	Sing 	San/Tan 	
+291 	0x515A 	Dang 	Tang 	Tong 	Tong 	Tang 	Tang 	Dang 	
+292 	0x7FDF 	Zhai 	Chai 	Chak 	Chak 	Tek 	Tek 	Trach 	
+
+293 	0x8C2D 	Tan 	Tan 	Tam 	Tam 	Tham 	Tham 	Dam 	
+294 	0x8D21 	Gong 	Kung 	Kung 	Kong 	Kong 	Kong 	Cong 	
+295 	0x52B3 	Lao 	Lao 	Lo 	Lou 	Low 	Low/Lau/Lao 	Lao 	
+296 	0x9004 	Pang 	Pang 	Fung 	Fong 	Phang 	Phang/Pang 	Bang 	
+
+297 	0x59EC 	Ji 	Chi 		Kei 	Kee 	Kee 	Co 	
+298 	0x7533 	Shen 	Shen 	San/Sun 	Son 	Sing 	Sing 	Than 	
+299 	0x6276 	Fu 	Fu 	Foo 	Fu 	Hoo 	Hoo/Hu 	Phu 	
+300 	0x5835 	Du 	Tu 	To 	Tou 			Do 	
+
+301 	0x5189 	Ran 	Jan 			Ziam/Jiam 	Jiam/Riam/Ziam 	Nhiem 	
+302 	0x5BB0 	Zai 	Tsai 		Choi 	Chai 	Chai 	Te 	
+303 	0x90E6 	Li 	Li 			Lee 	Lee 	Le 	
+304 	0x96CD 	Yong 	Yung 	Yung 	Iong 	Yong 	Yong 	Ung 	
+
+305 	0x90E4 	Xi 	Hsi 		Lio 	Khiah/Kiah 	Khiah/Kiah 	Khich 	
+306 	0x74A9 	Qu 	Chu 						
+307 	0x6851 	Sang 	Sang 	Song 	Song 	Sng/Seung 	Sng/Seung 	Tang 	
+308 	0x6842 	Gui 	Kui 	Kwai 	Kuai 	Kwee/Kui 	Kwee/Kui 	Que 	
+
+309 	0x6FEE 	Pu 	Pu 						
+310 	0x725B 	Niu 	Niu 	Ngau 	Ngao 	Goo 	Goo/Gu 	Nguu 	
+311 	0x5BFF 	Shou 	Shou 	Sau 	Sao 	Sew 	Sew 	Tho 	
+312 	0x901A 	Tong 	Tung 	Tung 	Tong 	Tong/Thong 	Tong/Thong 	Thong 	
+
+313 	0x8FB9 	Bian 	Pien 	Pin 	Pin 	Piang 	Piang 	Bien 	
+314 	0x6248 	Hu 	Hu 		Wu 	Hoo 	Hoo/Hu 	Ho 	
+315 	0x71D5 	Yan 	Yen 	Yin 	In 	Yin 	Yin 	Yen 	
+316 	0x5180 	Ji 	Chi 	Kei 	Kei 	Kee 	Kee 	Ky 	
+
+317 	0x90CF 	Jia 	Chia 						
+318 	0x6D66 	Pu 	Pu 	Po 	Pou 	Poh/Pou 	Poh/Pou 	Pho 	
+319 	0x5C1A 	Shang 	Shang 	Sheung 	Seong 	Siang 	Siang 	Sang/Thuong 	
+320 	0x519C 	Nong 	Nung 	Nung 	Nong 	Long 	Long 	Nong 	
+
+321 	0x6E29 	Wen 	Wen 	Wan 	Wen 	Woon/Oon 	Wen/Won/Wan/Woon/Bong/Voon/Oon 	On 	
+322 	0x522B 	Bie 	Pieh 	Pit 	Bit 	Piak 	Piak 	Biet 	
+323 	0x838A 	Zhuang 	Chuang 	Chong 		Chng 	Chuang/Ching/Chin/Chng 	Trang 	
+324 	0x664F 	Yan 	Yen 			Ang 	Ang 	Yen 	
+
+325 	0x67F4 	Chai 	Chai 	Chai 	Chai 	Cha 	Cha 	Sai 	
+326 	0x77BF 	Qu 	Chu 	Kui 	Koi 	Keu 	Keu/Ker 	Cu 	
+327 	0x960E 	Yan 	Yen 	Yim 	Im 	Giam/Ngiam 	Giam/Ngiam 	Diem 	
+328 	0x5145 	Chong 	Chung 	Chung 	Chong 	Chong 	Chong 	Xung 	
+
+329 	0x6155 	Mu 	Mu 	Mo 	Mou 	Mor 	Mor 	Mo 	
+330 	0x8FDE 	Lian 	Lien 	Lin 	Lin 	Lian/Liang 	Lian/Liang/Leong 	Lien 	
+331 	0x8339 	Ru 	Ju 	Yu 	U 	Joo 	Joo/Yee 	Nhu 	
+332 	0x4E60 	Xi 	Hsi 	Chap 	Chap 	Sip/Sik 	Sip/Sik 	T0x1EADp 	
+
+333 	0x5BA6 	Huan 	Huan 	Wan 	Wan 	Huang 	Huang 	Hoan 	
+334 	0x827E 	Ai 	Ai 	Ngai 	Ngai 	Hian/Ngai 	Hian/Ngai 	Ngai 	
+335 	0x9C7C 	Yu 	Yu 	Yu 	U 			Ngu 	
+336 	0x5BB9 	Rong 	Jung 	Yung 	Iong 	Yong 	Yong 	Dung 	
+
+337 	0x5411 	Xiang 	Hsiang 	Heung 	Heong 	Hiang 	Hiang 	Huong 	
+338 	0x53E4 	Gu 	Ku 	Koo 	Ku 	Koh 	Khoo/Koh/Ku/Koo 	Co 	
+339 	0x6613 	Yi 	I/Yi 	Yik 	Iek 	Ek 	Ek 	Dich 	
+340 	0x614E 	Shen 	Shen 					Th0x1EADn 	
+
+341 	0x6208 	Ge 	Ko 			Kho/Kor 	Kho/Khor/Kor 	Qua 	
+342 	0x5ED6 	Liao 	Liao 	Liu 	Lio/Liu 	Leow 	Leow/Liew/Liau/Liao 	Lieu 	
+343 	0x5EBE 	Yu 	Yu 	Yu 	U 	Joo/Ju 	Joo/Ju 	Duu 	
+344 	0x7EC8 	Zhong 	Chung 	Chung 	Chong 	Chong 	Chong 	Chung 	
+
+345 	0x66A8 	Ji 	Chi 			Kee 	Kee 	Ky 	
+346 	0x5C45 	Ju 	Chu 	Kui 	Koi 	Keu/Ker 	Ker/Keu 	Cu 	
+347 	0x8861 	Heng 	Heng 			Huang 	Huang 	Hanh 	
+348 	0x6B65 	Bu 	Pu 	Po 	Pou 	Poh 	Poh 	Bo 	
+
+349 	0x90FD 	Du 	Tu 	To 	Tou 	Toh/Tou 	Toh/Tou 	Do 	
+350 	0x803F 	Geng 	Keng 			Kuang 	Kuang 	Canh 	
+351 	0x6EE1 	Man 	Man 	Mun 	Mun 	Muan 	Muan 	Man 	
+352 	0x5F18 	Hong 	Hung 	Wung 		Hong 	Hong 	Hoang 	
+
+353 	0x5321 	Kuang 	Kuang 	Hong 	Hong 	Kuang 	Kuang 	Khuong 	
+354 	0x56FD 	Guo 	Kuo 	Kwok 	Kuok 	Kok 	Kok 	Quoc 	
+355 	0x6587 	Wen 	Wen 	Man 	Man 	Boon/Bung 	Boon/Bung 	Van 	
+356 	0x5BC7 	Kou 	Kou 	Kau 	Kao 	Koh/Kou 	Koh/Kou 	Khau 	
+
+357 	0x5E7F 	Guang 	Kuang 	Kwong 	Kuong 	Kuang 	Kuang 	Quang 	
+358 	0x7984 	Lu 	Lu 	Luk 	Lok 	Lok 	Lok 	Luc 	
+359 	0x9619 	Que 	Chueh 	Kuit 	Kuet 	Kuek/Kueh 	Kuek/Kueh 	Khuyet 	
+360 	0x4E1C 	Dong 	Tung 	Tung 	Dong 	Tong/Tang 	Tong/Tang 	Dong 	Dong
+
+361 	0x6B50 	Ou 	Ou 	Au 	Ao 	Ow/Au/Ao 	Ow/Au/Ao/Aw 		
+362 	0x6BB3 	Shu 	Shu 						
+363 	0x6C83 	Wo 	Wo 						
+364 	0x5229 	Li 	Li 	Lee Li 	Lei/Lee 	Lee 	Lee 	Loi 	
+
+365 	0x851A 	Wei 	Wei 	Wai 		Way/We 	Way/We 		
+366 	0x8D8A 	Yue 	Yueh 		Yuet 	Wak 	Wak 	Viet 	
+367 	0x5914 	Kui 	Kuei 			Kwee/Kui 	Kwee/Kui 		
+368 	0x9686 	Long 	Lung 			Long 	Long 		
+
+369 	0x5E2B 	Shi 	Shih 	Sze 		Sze/Ser 	Sze/Ser 	Su 	
+370 	0x978F 	Gong 	Kung 	Kung 		Kiong 	Kiong 		
+371 	0x5399 	She 	She 						
+372 	0x8076 	Nie 	Nieh 	Nip / Lip 		Niap 	Niap 		
+
+373 	0x6641 	Zhao 	Chao 						
+374 	0x52FE 	Gou 	Kou 						
+375 	0x6556 	Ao 	Ao 						
+376 	0x878D 	Rong 	Jung 			Yong 	Yong 		
+
+377 	0x51B7 	Leng 	Leng 					Lanh 	
+378 	0x8A3E 	Zi 	Tzu 						
+379 	0x8F9B 	Xin 	Hsin 			Sing 	Sing 	Tan 	
+380 	0x95DE 	Kan 	Kan 						
+
+381 	0x90A3 	Na 	Na 						
+382 	0x7C21 	Jian 	Chien 	Kan 	Kan 	Kan/Kang 	Kang 		
+383 	0x9952 	Rao 	Jao 	Yiu 		Jeow/Jiau 	Jeow/Jiau 		
+384 	0x7A7A 	Kong 	Kung 					Khong 	
+
+385 	0x66FE 	Zeng 	Tseng 	Tsang 	Chang 	Chan/Tjan 	Tjan/Chang/Chan/Chin 	Tang 	
+386 	0x6BCB 	Wu 	Wu 						
+387 	0x6C99 	Sha 	Sha 			Sha/Sua 	Sha/Sua 	Sa 	
+388 	0x4E5C 	Mie 	Nieh 						
+
+389 	0x990A 	Yang 	Yang 						
+390 	0x97A0 	Ju 	Chu 						
+391 	0x9808 	Xu 	Hsu 			Soo/Su 	Soo/Su 		
+392 	0x8C50 	Feng 	Feng 			Hong 	Hong 		
+
+393 	0x5DE2 	Chao 	Chao 			Chow/Chau/Chao 	Chow/Chau/Chao 		
+394 	0x95DC 	Guan 	Kuan 	Kwan 	Kuan 	Kwan/Kuang 	Kwan/Kuang 		
+395 	0x84AF 	Kuai 	Kuai 						
+396 	0x76F8 	Xiang 	Hsiang 						
+
+397 	0x67E5 	Cha 	Cha 	Cha 	Cha 	Cha 	Cha 		
+398 	0x540E 	Hou 	Hou 		Hao 			H0x1EADu 	
+399 	0x8346 	Jing 	Ching 			Keng 	Keng 		
+400 	0x7D05 	Hong 	Hung 	Hung 		Ang 	Ang 	Hong 
+
+401 	0x6E38 	You 	Yu 	Yow/Yau 		Yew/Yu 	Yew/Yu/Yiu 	Du 	
+402 	0x7AFA 	Zhu 	Chu 						
+403 	0x6B0A 	Quan 	Chuan 			Kuan/Kuang 	Kuan/Kuang 		Kwon
+404 	0x902F 	Lu 	Lu 						
+
+405 	0x84CB 	Gai 	Ko 						
+406 	0x76CA 	Yi 	I / Yi 						
+407 	0x6853 	Huan 	Huan 						Hwan
+408 	0x516C 	Gong 	Kung 			Kong 	Kong 	Cong 	
+409 	0x4E18 	Qiu 				Khew/Khoo 	Khew/Khoo 		
+
+410 	0x4E070x4FDF 	Moqi 	Mo-chi 			Mok Kee 	Mok Kee 		
+411 	0x53F80x99AC 	Sima 	Ssu-ma 	Szema 		See Beh 	See Beh 	Tu Ma 	
+412 	0x4E0A0x5B98 	Shangguan 	Shang-kuan 					Thuong Quan 	
+413 	0x6B500x967D 	Ouyang 	Ou-yang 	Au Yeung 	Ao Ieong 			Au Duong 	
+
+414 	0x590F0x4FAF 	Xiahou 	Hsia-hou 						
+415 	0x8AF80x845B 	Zhuge 	Chu-ko 			Chukat 			
+416 	0x805E0x4EBA 	Wenren 	Wen-jen 						
+417 	0x67710x65B9 	Dongfang 	Tung-fang 					Dong Phuong 	
+
+418 	0x8D6B0x9023 	Helian 	Ho-lien 						
+419 	0x76870x752B 	Huangfu 	Huang-fu 						
+420 	0x5C090x9072 	Yuchi 	Yu-chih 			Utti 			
+421 	0x516C0x7F8A 	Gongyang 	Kung-yang 					Cong Duong 	
+
+422 	0x6FB90x81FA 	Tantai 	Tan-tai 						
+423 	0x516C0x51B6 	Gongye 	Kung-yeh 					Cong Dai 	
+424 	0x5B970x653F 	Zongzheng 	Tsung-cheng 						
+425 	0x6FEE0x967D 	Puyang 	Pu-yang 						
+
+426 	0x6DF30x4E8E 	Chunyu 	Chun-yu 						
+427 	0x55AE0x4E8E 	Chanyu 	Chan-yu 			Siang Woo 	Siang Woo 		
+428 	0x592A0x53D4 	Taishu 	Tai-shu 						
+429 	0x75330x5C60 	Shentu 	Shen-tu 						
+
+430 	0x516C0x5B6B 	Gongsun 	Kung-sun 						
+431 	0x4EF20x5B6B 	Zhongsun 	Chung-sun 					Trong Ton 	
+432 	0x8ED20x8F45 	Xuanyuan 	Hsuan-yuan 						
+433 	0x4EE40x72D0 	Linghu 	Ling-hu 					Lenh Ho 	Yeongho
+
+434 	0x937E0x96E2 	Zhongli 	Chung-li 						
+435 	0x5B870x6587 	Yuwen 	Yu-wen 						
+436 	0x95770x5B6B 	Changsun 	Chang-sun 					Truong Ton 	
+437 	0x61550x5BB9 	Murong 	Mu-jung 						
+
+438 	0x9BAE0x4E8E 	Xianyu 	Hsien-yu 						Seon Woo
+439 	0x95AD0x4E18 	Luqiu 	Lu-chiu 						
+440 	0x53F80x5F92 	Situ 	Ssu-tu 	Szeto 	Si Tou 				
+441 	0x53F80x7A7A 	Sikong 	Ssu-kung 					Tu Cong 	
+
+442 	0x4E930x5B98 	Qiguan 							
+443 	0x53F80x5BC7 	Sikou 							
+444 	0x4EC9 	Zhang 							
+445 	0x7763 	Du 							
+
+446 	0x5B500x8F66 	Ziche 						Tu Xa 	
+447 	0x989B0x5B59 	Zhuansun 							
+448 	0x7AEF0x6728 	Duanmu 	Tuanmu 						
+449 	0x5DEB0x9A6C 	Wuma 							
+
+450 	0x516C0x897F 	Gongxi 						Cong Tay 	
+451 	0x6F060x96D5 	Qidiao 							
+452 	0x4E500x6B63 	Yuezheng 						Lac Chinh / Lac Chanh 	
+453 	0x58E40x9A77 	Xiangsi 							
+
+454 	0x516C0x826F 	Gongliang 							
+455 	0x62D30x62D4 	Tuoba 							
+456 	0x59390x8C37 	Jiagu 							
+457 	0x5BB00x7236 	Zaifu 							
+
+458 	0x8C370x7CB1 	Guliang 							
+459 	0x664B 	Jin 							
+460 	0x695A 	Chu 							
+461 	0x95EB 	Yan 							
+
+462 	0x6CD5 	Fa 						Phap 	
+463 	0x6C5D 	Ru 							
+464 	0x9122 	Yan 							
+465 	0x6D82 	Tu 							
+
+466 	0x94A6 	Qin 							
+467 	0x6BB50x5E72 	Duangang 							
+468 	0x767E0x91CC 	Baili 						Bach Ly 	
+469 	0x4E1C0x90ED 	Dongguo 						Dong Quach 	
+
+470 	0x53570x95E8 	Nanmen 						Nam Mon 	
+471 	0x547C0x5EF6 	Huyan 							
+472 	0x5F52 	Gui 							
+473 	0x6D77 	Hai 		Heoi 			Heoi 	Hai 	
+
+474 	0x7F8A0x820C 	Yangshe 							
+475 	0x5FAE0x751F 	Weisheng 							
+476 	0x5CB3 	Yue 	Yue 	Ngok 					
+477 	0x5E05 	Shuai 							
+
+478 	0x7F11 	Gou 							
+479 	0x4EA2 	Kang 							
+480 	0x51B5 	Kuang 							
+481 	0x540E 	Hou 						H0x1EADu
+
+482 	0x6709 	You 						Huu 	
+483 	0x7434 	Qin 				Kim 	Kim 		
+484 	0x68810x4E18 	Liangqiu 							
+485 	0x5DE60x4E18 	Zuoqiu 							
+
+486 	0x4E1C0x95E8 	Dongmen 						Dong Mon 	
+487 	0x897F0x95E8 	Ximen 						Tay Mon 	
+488 	0x5546 	Shang 				Siang 	Siang 		
+489 	0x725F 	Mou 							
+
+490 	0x4F58 	She 		Sheh 		Sia/Siah/Seah 	Sia/Siah/Seah 		
+491 	0x4F74 	Er 							
+492 	0x4F2F 	Bo 				Pek/Peh 	Pek/Peh 		
+493 	0x8D4F 	Shang 						Thuong 	
+
+494 	0x53570x5BAB 	Nangong 						Nam cung 	Namgung
+495 	0x58A8 	Mo 				Bak 	Bak 		
+496 	0x54C8 	Ha 							
+497 	0x8C2F 	Qiao 							
+
+498 	0x7B2A 	Da 							
+499 	0x5E74 	Nian 				Nee 	Nee 	Nien 	
+500 	0x7231 	Ai 						Ai 	
+501 	0x9633 	Yang 						Duong 	
+
+502 	0x4F5F 	Tong 				Tong/Thong 	Tong/Thong 		
+503 	0x7B2C0x4E94 	Diwu 						De Ngu 	
+504 	0x8A00 	Yan 	Yen 					Ngon 	
+505 	0x798F 	Fu 				Hok 	Hok 	Phuc 	
+506 	0x9EA5 	Mai 		Mak 		Beh 	Beh 		
