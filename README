@@ -1,3 +1,24 @@
+KDD CUP 2013 - Track 2
+======================
+Copyright 2013 Cheng-Hao Tsai,Cheng-Kuang Wei,Cheng-Xia Chang,Chih-Jen
+Lin,Chun-Liang Li,Chun-Pai Yang,Felix Wu,Hsiao-Yu Tung,Hsuan-Tien Lin,Jui-Pin
+Wang,Kuan-Hao Huang,Shan-Wei Lin,Shou-De Lin,Ting-Wei Lin,Tong Yu,Tu-Chun
+Yin,Tzu-Ming Kuo,Wei-Cheng Chang,Wei-Sheng Chin,Yong Zhuang,Young-San
+Lin,Yu-Chen Lu,Yu-Chin Juan,Yu-Chuan Su
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+
+
 This package is developed by many students in National Taiwan University, so it
 may contain multiple models and many scripts in this package.  Generally
 speaking, our approach includes two different author-matching algorithms,
