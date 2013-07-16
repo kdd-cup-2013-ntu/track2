@@ -12,7 +12,7 @@ o2 = open(out2, 'w')
 o3 = open(out3, 'w')
 o4 = open(out4, 'w')
 
-inputfile = '/tmp2/KDDCUP2013/DataAsCsvFiles/Author.csv'
+inputfile = '../data/Author.csv'
 
 idfindname = dict()
 with open(inputfile,'r') as f:

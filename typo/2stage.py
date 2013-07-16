@@ -63,7 +63,8 @@ def WriteFile(final, output_path, aucsv):
 
 
 def main(argv):
-    RawDir = '/tmp2/KDDCUP2013/DataAsCsvFiles/'
+    RawDir = '../data/'
+    #RawDir = '/tmp2/KDDCUP2013/DataAsCsvFiles/'
     TrainFile = RawDir + 'Train.csv'
     AuthorPath = RawDir + 'Author.csv'
   
